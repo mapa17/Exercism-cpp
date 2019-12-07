@@ -1,3 +1,11 @@
+# Ignore all build folders
+**/build/
+
+# Exercism and vscode meta data
+**/.exercism/
+**/.vscode/
+
+
 # Prerequisites
 *.d
 
